@@ -1,0 +1,25 @@
+#container {
+    width: 270px;
+    height: 270px;
+    border: 2px solid grey;
+    border-radius: 150px;
+    text-align: center;
+    line-height: 90px;
+}
+
+#timeDisplay {
+    font-size: 265%;
+    font-weight: bold;
+}
+
+#days {
+    font-size: 28px;
+    font-weight: 900;
+    font-family: 'Times New Roman', Times, serif
+}
+
+/* #monday {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: xx-large;
+    font-weight: bold;
+} */
